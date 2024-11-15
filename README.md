@@ -45,9 +45,14 @@
         <img align="center" src="https://img.shields.io/badge/Figma-2f0147.svg?style=for-the-badge&logo=figma&logoColor=white" />
   </div>  
   <br>
-  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="550">
+  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="560">
 </div> 
 
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
