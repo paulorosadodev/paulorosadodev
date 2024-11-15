@@ -46,8 +46,14 @@
   </div>  
   <br>
   <img align="left" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="560">
+   <div align="center">
+  <img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=paulorosadodev&custom_title=Paulo%20Rosado's%20GitHub%20Activity%20Graph&bg_color=2f0147&color=e2c2c6&line=626069&point=fff&area_color=2563eb&title_color=fff&area=true&hide_border=true" width="600px">
+</div>
 </div> 
 
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -62,6 +68,3 @@
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorosadodev&layout=compact&hide_progress=true&bg_color=2f0147&hide_border=true&title_color=fff&text_color=fff&icon_color=9c528b"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulorosadodev&custom_title=Paulo%20Rosado's%20GitHub%20Activity%20Graph&bg_color=2f0147&color=e2c2c6&line=626069&point=fff&area_color=2563eb&title_color=fff&area=true&hide_border=true" width="90%">
-</div>
