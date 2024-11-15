@@ -46,8 +46,9 @@
   </div>  
   <br>
   <img align="left" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="560">
+   <br>
    <div align="center">
-  <img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=paulorosadodev&custom_title=Paulo%20Rosado's%20GitHub%20Activity%20Graph&bg_color=2f0147&color=e2c2c6&line=626069&point=fff&area_color=2563eb&title_color=fff&area=true&hide_border=true" width="550px">
+  <img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=paulorosadodev&custom_title=Paulo%20Rosado's%20GitHub%20Activity%20Graph&bg_color=2f0147&color=e2c2c6&line=626069&point=fff&area_color=2563eb&title_color=fff&area=true&hide_border=true" width="555px">
 </div>
 </div> 
 
