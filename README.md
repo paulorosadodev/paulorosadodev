@@ -55,13 +55,11 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <div align="center"> 
-    <img height=120 src="https://github-readme-stats.vercel.app/api?username=paulorosadodev&show_icons=true&bg_color=2f0147&hide_border=true&title_color=fff&text_color=e2c2c6&icon_color=9c528b" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=paulorosadodev&show_icons=true&bg_color=2f0147&hide_border=true&title_color=fff&text_color=e2c2c6&icon_color=9c528b" />
     <img height="140" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" />
-    <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorosadodev&layout=compact&hide_progress=true&bg_color=2f0147&hide_border=true&title_color=fff&text_color=fff&icon_color=9c528b"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorosadodev&layout=compact&hide_progress=true&bg_color=2f0147&hide_border=true&title_color=fff&text_color=fff&icon_color=9c528b"/>
 </div>
 
 <div align="center">
