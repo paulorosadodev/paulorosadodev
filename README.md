@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2800&pause=4000&color=9820C4&center=true&vCenter=true&width=940&lines=Hi there!+I'm++Paulo+Rosado+🍜" alt="Hi there! I'm Paulo Rosado 🍜" width="100%" align="center" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&duration=2800&pause=4000&color=9820C4&center=true&vCenter=true&width=940&lines=Hi there!+I'm++Paulo+Rosado+🍜" alt="Hi there! I'm Paulo Rosado 🍜" width="100%" align="center" />
 
 <br>
 
@@ -45,7 +45,7 @@
         <img align="center" src="https://img.shields.io/badge/Figma-2f0147.svg?style=for-the-badge&logo=figma&logoColor=white" />
   </div>  
   <br>
-  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
+  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600">
 </div> 
 
 <br>
