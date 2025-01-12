@@ -5,7 +5,7 @@
 <div align="center"> 
    <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Man Technologist Medium-Light Skin Tone" height="250" />
   <div align="left">
-    <p>💻 | Computer Science student in my 3rd semester at CESAR School</p>
+    <p>💻 | Computer Science student in my 4th semester at CESAR School</p>
     <p>🙋‍♂️ | Passionate about Cloud Computing, DevOps, Software Development, and AI</p>
     <div>
       <h4 align="left">Follow me:</h4>
