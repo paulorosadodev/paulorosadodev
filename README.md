@@ -5,8 +5,8 @@
 <div align="center"> 
    <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Man Technologist Medium-Light Skin Tone" height="250" />
   <div align="left">
-    <p>💻 | Computer Science student in my 5th semester at CESAR School</p>
-    <p>🙋‍♂️ | Passionate about Cloud Computing, DevOps, Software Development, and AI</p>
+    <p>💻 | Computer Science student in my 6th semester at CESAR School</p>
+    <p>🙋‍♂️ | Passionate about GenAI, Cloud Computing, DevOps, and Software Engineering</p>
     <div>
       <h4 align="left">Follow me:</h4>
       <a align="left" href="https://www.linkedin.com/in/paulorosadodev/">
@@ -18,10 +18,9 @@
     </div>
     <div>
       <h4 align="left">Current learning:</h4>
-      <img src="https://img.shields.io/badge/Amazon_AWS-2f0147?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring-2f0147?style=for-the-badge&logo=spring&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-2f0147?style=for-the-badge&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-2f0147?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Amazon_AWS-2f0147?style=for-the-badge&logo=icloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kotlin-2f0147?style=for-the-badge&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring Boot-2f0147?style=for-the-badge&logo=spring&logoColor=white"/>
     </div>
 </div>
 
@@ -29,17 +28,20 @@
   <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" alt="Man Technologist Medium-Light Skin Tone" height="250" />
   <div align="left">
       <h4 align="left">My stack:</h4>
-       <img align="center" src="https://img.shields.io/badge/Python-2f0147?style=for-the-badge&logo=python&logoColor=white" />
+        <img align="center" src="https://img.shields.io/badge/Cursor-2f0147?style=for-the-badge&logo=cursor&logoColor=white" />
+        <img align="center" src="https://img.shields.io/badge/Docker-2f0147?style=for-the-badge&logo=docker&logoColor=white" />
+        <img align="center" src="https://img.shields.io/badge/TypeScript-2f0147?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img align="center" src="https://img.shields.io/badge/Node.js-2f0147?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img align="center" src="https://img.shields.io/badge/React-2f0147?style=for-the-badge&logo=react&logoColor=white"/>
+        <img align="center" src="https://img.shields.io/badge/Python-2f0147?style=for-the-badge&logo=python&logoColor=white" />
         <img align="center" src="https://img.shields.io/badge/Django-2f0147?style=for-the-badge&logo=django&logoColor=white" />
-        <img align="center" src="https://img.shields.io/badge/JavaScript-2f0147?style=for-the-badge&logo=javascript&logoColor=white" />
-        <img align="center" src="https://img.shields.io/badge/HTML-2f0147?style=for-the-badge&logo=html5&logoColor=white" />
-        <img align="center" src="https://img.shields.io/badge/CSS-2f0147?style=for-the-badge&logo=css3&logoColor=white" />
         <img align="center" src="https://img.shields.io/badge/Java-2f0147?style=for-the-badge&logo=openjdk&logoColor=white" />
         <img align="center" src="https://img.shields.io/badge/C-2f0147?style=for-the-badge&logo=c&logoColor=white" />
+        <img align="center" src="https://img.shields.io/badge/Git-2f0147?style=for-the-badge&logo=git&logoColor=white" />
         <img align="center" src="https://img.shields.io/badge/GitHub-2f0147?style=for-the-badge&logo=github&logoColor=white" />
-        <img align="center" src="https://img.shields.io/badge/GIT-2f0147?style=for-the-badge&logo=git&logoColor=white" />
+        <img align="center" src="https://img.shields.io/badge/GitLab-2f0147?style=for-the-badge&logo=gitlab&logoColor=white" />
         <img align="center" src="https://img.shields.io/badge/PostgreSQL-2f0147?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <img align="center" src="https://img.shields.io/badge/SQLite-2f0147?style=for-the-badge&logo=sqlite&logoColor=white" />
+        <img align="center" src="https://img.shields.io/badge/MySQL-2f0147?style=for-the-badge&logo=mysql&logoColor=white" />
         <img align="center" src="https://img.shields.io/badge/Ubuntu-2f0147?style=for-the-badge&logo=ubuntu&logoColor=white" />
   </div>  
   <br>
