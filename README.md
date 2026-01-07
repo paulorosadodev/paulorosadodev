@@ -51,21 +51,3 @@
   <img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=paulorosadodev&custom_title=Paulo%20Rosado's%20GitHub%20Activity%20Graph&bg_color=2f0147&color=e2c2c6&line=626069&point=fff&area_color=2563eb&title_color=fff&area=true&hide_border=true" width="556px">
 </div>
 </div> 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<div align="center"> 
-    <img height="153" src="https://github-readme-stats.vercel.app/api?username=paulorosadodev&show_icons=true&bg_color=2f0147&hide_border=true&title_color=fff&text_color=e2c2c6&icon_color=9c528b" />
-    <img height="140" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" />
-    <img height="153" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorosadodev&layout=compact&hide_progress=true&bg_color=2f0147&hide_border=true&title_color=fff&text_color=fff&icon_color=9c528b"/>
-</div>
-
